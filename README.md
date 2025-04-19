@@ -37,10 +37,16 @@ EventMasterPro es una aplicación Java desarrollada para gestionar eventos unive
 📂 Estructura del proyecto
 
   com/mycompany/eventmasterpro/
-  ├── AbstractEventType.java      // Clase base para eventos
-  ├── ArtistEvent.java            // Gestión de artistas
-  ├── DataBases.java              // Simulación de base de datos con HashMaps
-  ├── EventMasterPro.java         // Clase principal (main)
-  ├── EventReport.java            // Reportes de ingresos y egresos
-  └── ManagerEvent.java           // Gestión de eventos
-      
+  
+  AbstractEventType.java
+    // Clase base para eventos
+  ArtistEvent.java
+    // Gestión de artistas
+  DataBases.java
+    // Simulación de base de datos con HashMaps
+  EventMasterPro.java
+    // Clase principal (main)
+  EventReport.java
+    // Reportes de ingresos y egresos
+  ManagerEvent.java
+    // Gestión de eventos
