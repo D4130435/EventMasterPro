@@ -4,18 +4,18 @@ EventMasterPro es una aplicación Java desarrollada para gestionar eventos unive
 🚀 ¿Cómo usar la aplicación?
 
   1. Requisitos
-    -> JDK 17 o superior
-    -> IDE recomendado: NetBeans
-    -> Consola para entrada de datos (la aplicación es completamente interactiva por terminal)
+  -> JDK 17 o superior
+  -> IDE recomendado: NetBeans
+  -> Consola para entrada de datos (la aplicación es completamente interactiva por terminal)
 
   2. Clonar el repositorio
-     -> git clone https://github.com/D4130435/EventMasterPro
-     -> cd EventMasterPro
+  -> git clone https://github.com/D4130435/EventMasterPro
+  -> cd EventMasterPro
      
   3. Compilar y ejecutar (NetBeans)
-     -> Importa el proyecto como un proyecto Java.
-     -> Asegúrate de que la clase principal sea EventMasterPro.
-     -> Ejecuta el programa desde el IDE.
+-> Importa el proyecto como un proyecto Java.
+-> Asegúrate de que la clase principal sea EventMasterPro.
+-> Ejecuta el programa desde el IDE.
 
 📋 Funcionalidades principales
 
@@ -38,15 +38,9 @@ EventMasterPro es una aplicación Java desarrollada para gestionar eventos unive
 
   com/mycompany/eventmasterpro/
   
-  AbstractEventType.java
-    // Clase base para eventos
-  ArtistEvent.java
-    // Gestión de artistas
-  DataBases.java
-    // Simulación de base de datos con HashMaps
-  EventMasterPro.java
-    // Clase principal (main)
-  EventReport.java
-    // Reportes de ingresos y egresos
-  ManagerEvent.java
-    // Gestión de eventos
+  AbstractEventType.java // Clase base para eventos
+  ArtistEvent.java // Gestión de artistas
+  DataBases.java // Simulación de base de datos con HashMaps
+  EventMasterPro.java // Clase principal (main)
+  EventReport.java // Reportes de ingresos y egresos
+  ManagerEvent.java // Gestión de eventos
